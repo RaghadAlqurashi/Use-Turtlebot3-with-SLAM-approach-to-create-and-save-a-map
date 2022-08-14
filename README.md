@@ -49,6 +49,7 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 
 ```
 ## step5: Click the 2D Pose Estimate button in the RViz menu
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/107959289/184543533-28352999-968d-489d-906a-532626d836bf.png">
 
 https://youtu.be/ji2kQXgCjeM
 
